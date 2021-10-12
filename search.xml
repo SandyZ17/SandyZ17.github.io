@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Go语言资料集合</title>
+    <url>/2021/10/12/Go-resource/</url>
+    <content><![CDATA[<h2 id="K8S"><a href="#K8S" class="headerlink" title="K8S"></a>K8S</h2><ol>
+<li>《深入剖析kubernetes》</li>
+</ol>
+<h2 id="Golang"><a href="#Golang" class="headerlink" title="Golang"></a>Golang</h2><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><ul>
+<li>入门<ol>
+<li><a href="https://books.studygolang.com/gopl-zh/ch1/ch1-01.html">《Go语言圣经》</a></li>
+<li><a href="https://books.studygolang.com/the-way-to-go_ZH_CN/">《Go入门指南(The way to Go)》</a></li>
+</ol>
+</li>
+<li>进阶<ol>
+<li><a href="%E6%97%A0">《Go语言核心编程》</a></li>
+<li><a href="https://books.studygolang.com/GoExpertProgramming/">《Go语言专家编程》</a></li>
+<li><a href="https://learnku.com/docs/gin-gonic/2019">《Gin中文官方文档》</a></li>
+</ol>
+</li>
+<li>设计模式<ol>
+<li><a href="https://github.com/mohuishou/go-design-pattern">《设计模式之美（Go实现版）》</a></li>
+</ol>
+</li>
+</ul>
+<h3 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h3><ul>
+<li>入门及进阶<ol>
+<li><a href="https://www.liwenzhou.com/">李文周的博客</a></li>
+<li><a href="https://golang.iswbm.com/">Go编程时光</a></li>
+<li><a href="https://github.com/mohuishou/go-design-pattern">Go设计模式</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/377834750">手把手教你如何进行 Golang 单元测试</a></li>
+<li><a href="https://books.studygolang.com/The-Golang-Standard-Library-by-Example/">Go语言标准库</a></li>
+<li><a href="https://studygolang.com/">Go语言中文网</a></li>
+</ol>
+</li>
+</ul>
+<h3 id="其他书籍"><a href="#其他书籍" class="headerlink" title="其他书籍"></a>其他书籍</h3><ul>
+<li>资源站<ol>
+<li><a href="https://books.studygolang.com/">Go 语言中文开源图书、资料或文档</a></li>
+</ol>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/10/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
